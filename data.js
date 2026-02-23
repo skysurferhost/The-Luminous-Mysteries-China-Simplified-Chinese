@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-1-c-cha-gisu-chu-php-ra-ti-sng-gioan",
-      "name": "1. Đức Chúa Giê-su Chịu Phép Rửa Tại Sông Gio-đan",
+      "name": "一、T耶稣在约但河受洗",
       "levels": [
         {
           "tileSize": 256,
@@ -44,14 +44,14 @@ var APP_DATA = {
         {
           "yaw": 0.6319923911907424,
           "pitch": -0.17290606185455815,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Đức Giê-su chịu phép rửa</span><o:p></o:p></p>",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Bấy giờ, Đức Giê-su từ miền Ga-li-lê đến sông Gio-đan, gặp ông Gio-an để xin ông làm phép rửa cho mình. Nhưng ông một mực can Người và nói: “Chính tôi mới cần được Ngài làm phép rửa, thế mà Ngài lại đến với tôi!” Nhưng Đức Giê-su trả lời: “Bây giờ cứ thế đã. Vì chúng ta nên làm như vậy để giữ trọn đức công chính.” Bấy giờ ông Gio-an mới chiều theo ý Người.</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Khi Đức Giê-su chịu phép rửa xong, vừa ở dưới nước lên, thì các tầng trời mở ra. Người thấy Thần Khí Thiên Chúa đáp xuống như chim bồ câu và ngự trên Người. Và có tiếng từ trời phán: “Đây là Con yêu dấu của Ta, Ta hài lòng về Người.”<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">(Mátthêu 3:13–17)<o:p></o:p></p></div>"
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">T耶稣在约但河受洗</span><o:p></o:p></p>",
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">那时，耶稣由加里肋亚来到约但河若翰那里，为受他的洗；但若翰想要阻止他说：「我本来需要受你的洗，而你却来就我吗？」耶稣回答他说：「你暂且容许罢！因为我们应当这样，以完成全义。」于是若翰就容许了他。</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">耶稣受洗后，立时从水里上来，忽然天为他开了。他看见天主圣神有如鸽子降下，来到他上面；又有声音由天上说：「这是我的爱子，我所喜悦的。」<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">(玛窦福音 3:13–17)<o:p></o:p></p></div>"
         }
       ]
     },
     {
       "id": "1-2-c-cha-gisu-d-tic-ci-cana",
-      "name": "2. Đức Chúa Giê-su Dự Tiệc Cưới Ca-na",
+      "name": "二、耶稣参加加纳婚宴",
       "levels": [
         {
           "tileSize": 256,
@@ -99,8 +99,8 @@ var APP_DATA = {
         {
           "yaw": -0.24373764674771792,
           "pitch": -0.2789593316817669,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Tiệc cưới Ca-na</span><o:p></o:p></p>",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Ngày thứ ba, có tiệc cưới tại Ca-na miền Ga-li-lê. Trong tiệc cưới có thân mẫu Đức Giê-su. Đức Giê-su và các môn đệ cũng được mời tham dự. Khi thấy thiếu rượu, thân mẫu Đức Giê-su nói với Người: “Họ hết rượu rồi.” Đức Giê-su đáp: “Thưa bà, chuyện đó can gì đến bà và tôi? Giờ của tôi chưa đến.” Thân mẫu Người nói với gia nhân: “Người bảo gì, các anh cứ việc làm theo.”</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Ở đó có đặt sáu chum đá dùng vào việc thanh tẩy theo thói tục người Do-thái, mỗi chum chứa được khoảng tám mươi hoặc một trăm hai mươi lít nước. Đức Giê-su bảo họ: “Các anh đổ đầy nước vào chum đi!” Và họ đổ đầy tới miệng. Rồi Người nói với họ: “Bây giờ các anh múc và đem cho ông quản tiệc.” Họ liền đem cho ông. Khi người quản tiệc nếm thử nước đã hóa thành rượu (mà không biết rượu từ đâu ra, còn gia nhân đã múc nước thì biết), ông mới gọi tân lang lại và nói: “Ai ai cũng thết rượu ngon trước, và khi khách đã ngà ngà mới đãi rượu xoàng hơn. Còn anh, anh lại giữ rượu ngon mãi cho đến bây giờ.” Đức Giê-su đã làm dấu lạ đầu tiên này tại Ca-na miền Ga-li-lê và bày tỏ vinh quang của Người. Các môn đệ đã tin vào Người. Sau đó, Người cùng với thân mẫu, anh em và các môn đệ xuống Ca-phác-na-um và ở lại đó ít ngày.<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">(Gioan 2:1-11)</div>"
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">耶稣参加加纳婚宴</span><o:p></o:p></p>",
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">第三天，在加里肋亚加纳有婚宴，耶稣的母亲在那里；耶稣和他的门徒也被请去赴婚宴。酒缺了，耶稣的母亲向他说：「他们没有酒了。」耶稣回答说：「女人，这于我和你有什么关系？我的时刻尚未来到。」他的母亲给仆役说：「他无论吩咐你们什么，你们就作什么。」</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">在那里放着六口石缸，是为犹太人的取洁礼用的；每口可容纳两三桶水。耶稣向仆役说：「你们把缸灌满水罢！」他们就灌满了，直到缸口。然后，耶稣给他们说：「现在你们舀出来，送给司席！」他们便送去了。司席一尝已变成酒的水──并不知是从那里来的，舀水的仆役却知道──司席便叫了新郎来，向他说：「人人都先摆上好酒，当客人都喝够了，才摆上次等的；你却把好酒保留到现在。」这是耶稣所行的第一个神迹，是在加里肋亚加纳行的；他显示了自己的光荣，他的门徒就信从了他。<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">(若望福音 2:1-11)</div>"
         }
       ]
     },
