@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-1-c-cha-gisu-chu-php-ra-ti-sng-gioan",
-      "name": "一、T耶稣在约但河受洗",
+      "name": "一、耶稣在约但河受洗",
       "levels": [
         {
           "tileSize": 256,
