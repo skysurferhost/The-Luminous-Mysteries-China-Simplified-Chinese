@@ -44,7 +44,7 @@ var APP_DATA = {
         {
           "yaw": 0.6319923911907424,
           "pitch": -0.17290606185455815,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">T耶稣在约但河受洗</span><o:p></o:p></p>",
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">耶稣在约但河受洗</span><o:p></o:p></p>",
           "text": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">那时，耶稣由加里肋亚来到约但河若翰那里，为受他的洗；但若翰想要阻止他说：「我本来需要受你的洗，而你却来就我吗？」耶稣回答他说：「你暂且容许罢！因为我们应当这样，以完成全义。」于是若翰就容许了他。</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">耶稣受洗后，立时从水里上来，忽然天为他开了。他看见天主圣神有如鸽子降下，来到他上面；又有声音由天上说：「这是我的爱子，我所喜悦的。」<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">(玛窦福音 3:13–17)<o:p></o:p></p></div>"
         }
       ]
